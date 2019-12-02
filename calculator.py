@@ -1,8 +1,8 @@
-#this is a new program for git assignment 
+#This is a newgram for our git assignment.
 
-print ("\t\tHello")
-print ("lolo\\\123456\\\78910")
-print ("\b hello \b hello")
+
+print ("\t\t\tHello Everyone")
+print ("\nThis code is for our Assignment 5 of LP1. ")
 
 def add(a, b):
     print ("Your answer is:")
@@ -28,6 +28,7 @@ def div(g: int, h: int):
         y = (int) (g % h)
         print (g, "/", h, "=",z, " R ",y)
     return
+
 def menu():
     choices = ['1', '2', '3', '4', '5']
     choice = '0'
